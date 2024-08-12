@@ -1,0 +1,8 @@
+com\project\flashcard\learning\tool\card\CardRepository.class
+com\project\flashcard\learning\tool\WebConfig.class
+com\project\flashcard\learning\tool\exceptions\CardNotFoundException.class
+com\project\flashcard\learning\tool\Application.class
+com\project\flashcard\learning\tool\exceptions\ErrorDetails.class
+com\project\flashcard\learning\tool\exceptions\CustomisedResponseEntityHandler.class
+com\project\flashcard\learning\tool\card\Card.class
+com\project\flashcard\learning\tool\card\CardJpaResource.class

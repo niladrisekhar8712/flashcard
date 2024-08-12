@@ -1,0 +1,8 @@
+D:\Users\Niladri\Documents\project\flashcard.learning.tool\src\main\java\com\project\flashcard\learning\tool\Application.java
+D:\Users\Niladri\Documents\project\flashcard.learning.tool\src\main\java\com\project\flashcard\learning\tool\card\Card.java
+D:\Users\Niladri\Documents\project\flashcard.learning.tool\src\main\java\com\project\flashcard\learning\tool\card\CardJpaResource.java
+D:\Users\Niladri\Documents\project\flashcard.learning.tool\src\main\java\com\project\flashcard\learning\tool\card\CardRepository.java
+D:\Users\Niladri\Documents\project\flashcard.learning.tool\src\main\java\com\project\flashcard\learning\tool\exceptions\CardNotFoundException.java
+D:\Users\Niladri\Documents\project\flashcard.learning.tool\src\main\java\com\project\flashcard\learning\tool\exceptions\CustomisedResponseEntityHandler.java
+D:\Users\Niladri\Documents\project\flashcard.learning.tool\src\main\java\com\project\flashcard\learning\tool\exceptions\ErrorDetails.java
+D:\Users\Niladri\Documents\project\flashcard.learning.tool\src\main\java\com\project\flashcard\learning\tool\WebConfig.java
